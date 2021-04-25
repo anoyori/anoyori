@@ -11,10 +11,6 @@ My name is Amanda. I'm Brazilian and a Java Devoloper Student.
   <img aling="center" alt= " height="30" width="40" amanda-codepen" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" style="max-width: 100%;">
  </a>
  
- 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoyori&theme=algolia&show_icons=true)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
