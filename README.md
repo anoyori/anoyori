@@ -10,6 +10,8 @@ My name is Amanda. I'm Brazilian and a Java Devoloper Student.
   <a href= "https://codepen.io/anoyori" target="_blank">
   <img aling="center" alt= " height="30" width="40" amanda-codepen" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" style="max-width: 100%;">
  </a>
+ 
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoyori&theme=algolia&show_icons=true)
 
