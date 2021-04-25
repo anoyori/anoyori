@@ -6,12 +6,10 @@
 # I'm Amanda, a Java Devoloper Student.
 
 # Connect with me: 
-<div class = 'network'>
+
   <a href= 'https://www.linkedin.com/in/amanda-noyori/'target="_blank"><i class = 'linkedin'> <i class="fab fa-linkedin"></i></a>
   <a href= 'https://github.com/anoyori/'target="_blank"><i class="fab fa-github-square"></i></a>
   <a href= 'https://www.instagram.com/anoyori/'target="_blank"><i class="fab fa-instagram"></i></a>
-  </div>
-
 
 <!--
 **anoyori/anoyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
