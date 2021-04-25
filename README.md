@@ -1,6 +1,8 @@
-### Hi there 👋
+#h1 Hi there 👋
 
-### I'm Amanda :)
+#h2 I'm Amanda, a Java Devoloper Student.
+
+
 
 <!--
 **anoyori/anoyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
