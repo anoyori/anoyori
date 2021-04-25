@@ -11,6 +11,8 @@
   <img aling="center" alt= " height="30" width="40" amanda-codepen" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" style="max-width: 100%;">
  </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoyori)](https://github.com/anoyori/github-readme-stats)
+
 <!--
 **anoyori/anoyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
