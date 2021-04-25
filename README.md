@@ -7,7 +7,9 @@
 
 # Connect with me: 
 
-  <a href= 'https://www.linkedin.com/in/amanda-noyori/'target="_blank"><i class = 'linkedin'> <i class="fab fa-linkedin"></i></a>
+  <a href= 'https://www.linkedin.com/in/amanda-noyori/'target="_blank"><i class = 'linkedin'> <i class="fab fa-linkedin"></i>
+  <img aling="center" alt= " height="30" width="40" amanda-linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%">
+ </a>
   <a href= 'https://github.com/anoyori/'target="_blank"><i class="fab fa-github-square"></i></a>
   <a href= 'https://www.instagram.com/anoyori/'target="_blank"><i class="fab fa-instagram"></i></a>
 
