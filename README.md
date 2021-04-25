@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amanda. I'm Brazilian and a Java Devoloper Student.
+My name is Amanda. I'm Brazilian and a Java Devoloper in training.
 
 #### Connect with me: 
 
