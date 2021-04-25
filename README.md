@@ -1,8 +1,8 @@
 # Hi there 👋
 
-# I'm Amanda, a Java Devoloper Student.
+## I'm Amanda, a Java Devoloper Student.
 
-# Connect with me: 
+## Connect with me: 
 
   <a href= "https://www.linkedin.com/in/amanda-noyori/" target="_blank">
   <img aling="center" alt= " height="30" width="40" amanda-linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
@@ -13,7 +13,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoyori&theme=algolia&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoyori)](https://github.com/anoyori/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **anoyori/anoyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
