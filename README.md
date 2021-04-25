@@ -7,8 +7,9 @@
   <a href= "https://www.linkedin.com/in/amanda-noyori/" target="_blank">
   <img aling="center" alt= " height="30" width="40" amanda-linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
  </a>
-  <a href= 'https://github.com/anoyori/'target="_blank"><i class="fab fa-github-square"></i></a>
-  <a href= 'https://www.instagram.com/anoyori/'target="_blank"><i class="fab fa-instagram"></i></a>
+  <a href= "https://codepen.io/anoyori" target="_blank">
+  <img aling="center" alt= " height="30" width="40" amanda-codepen" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" style="max-width: 100%;">
+ </a>
 
 <!--
 **anoyori/anoyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
