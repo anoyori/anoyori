@@ -46,10 +46,10 @@
 #### **Connect with me**:
 
   <a href= "https://www.linkedin.com/in/amanda-noyori/" target="_blank">
-  <img aling="center" alt= " height="30" width="40" amanda-linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
+  <img aling="center" alt= "amanda-linkedin" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
  </a>
   <a href= "https://codepen.io/anoyori" target="_blank">
-  <img aling="center" alt= " height="30" width="40" amanda-codepen" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" style="max-width: 100%;">
+  <img aling="center" alt= "amanda-codepen" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" style="max-width: 100%;">
  </a>
  
 
