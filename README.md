@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Amanda Noyori 👋
 
-<p>My name is Amanda. I'm Brazilian and a Software Engineer at XP inc. </p>
+<p>I'm Brazilian and a Software Engineer at XP inc. </p>
 <p>Currently learning about React, .Net and Clean Architecture</p>
 
   <a href= 'https://github.com/devicons/devicon'>
@@ -22,6 +22,9 @@
   </a> 
   <a href= 'https://github.com/devicons/devicon'>
     <img aling="center" alt= "javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
+  </a>
+  <a href= 'https://github.com/devicons/devicon'>
+    <img aling="center" alt= "typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
   </a>
   <a href= 'https://github.com/devicons/devicon'>
     <img aling="center" alt= "sql-server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="max-width: 100%;">
