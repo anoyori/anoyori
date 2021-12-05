@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-- My name is Amanda. I'm Brazilian and a Software Engineer at XP inc. 
-- I’m currently learning:
+<p>My name is Amanda. I'm Brazilian and a Software Engineer at XP inc. </p>
+<p>Currently learning about React, .Net and Clean Architecture</p>
 
   <a href= 'https://github.com/devicons/devicon'>
+    <img aling="center" alt= "react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" style="max-width: 100%;">
+  </a>  
+  <a href= 'https://github.com/devicons/devicon'>
     <img aling="center" alt= "dot-net-core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;">
-  </a>
+  </a>  
   <a href= 'https://github.com/devicons/devicon'>
     <img aling="center" alt= "node-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
-  </a>
-  <a href= 'https://github.com/devicons/devicon'>
-    <img aling="center" alt= "react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" style="max-width: 100%;">
   </a>  
   <a href= 'https://github.com/devicons/devicon'>
     <img aling="center" alt= "c-sharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
